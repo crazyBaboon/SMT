@@ -1,10 +1,7 @@
 SMT - Simple Minetest Texture pack. 
 
 
-Author: NF. 
-
-
-License CC0. 
+Author of modified textures: NF. 
 
 
 Enjoy and share
